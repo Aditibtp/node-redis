@@ -1,0 +1,22 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "description": "node server that uses redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "redis"
+  ],
+  "author": "Aditi Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    "redis": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
